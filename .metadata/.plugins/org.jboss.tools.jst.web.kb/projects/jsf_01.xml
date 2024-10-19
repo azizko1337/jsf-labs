@@ -202,18 +202,15 @@
   <path value="A:/servers/wildfly-33.0.2.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-util-2.5.2.Final.jar"/>
  </paths>
  <validation>
-  <core validator-id="jboss.cdi.core"/>
   <el>
    <linked-el length="23" name="%0" offset="781" path="%1"/>
    <linked-el length="17" name="%2" offset="706" path="%1"/>
    <linked-el length="19" name="%3" offset="623" path="%1"/>
-   <linked-el length="27" name="%4" offset="399" path="%5"/>
    <linked-el length="23" name="%4" offset="919" path="%1"/>
    <linked-el length="23" name="%4" offset="781" path="%1"/>
    <linked-el length="17" name="%4" offset="706" path="%1"/>
    <linked-el length="18" name="%4" offset="849" path="%1"/>
    <linked-el length="19" name="%4" offset="623" path="%1"/>
-   <linked-el length="27" name="%6" offset="399" path="%5"/>
   </el>
  </validation>
  <aliases>
@@ -221,9 +218,7 @@
   <alias path="calcBB.percentage" value="%0"/>
   <alias path="calcBB.time" value="%2"/>
   <alias path="calcBB.amount" value="%3"/>
-  <alias path="/jsf_01/src/main/webapp/showresult.xhtml" value="%5"/>
   <alias path="calcBB" value="%4"/>
-  <alias path="calcBB.result" value="%6"/>
  </aliases>
  <includes/>
  <uris/>

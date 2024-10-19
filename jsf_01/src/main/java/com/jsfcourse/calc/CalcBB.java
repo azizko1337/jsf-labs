@@ -26,7 +26,7 @@ public class CalcBB {
 			double time = Double.parseDouble(this.time);
 			double percentage = Double.parseDouble(this.percentage);
 
-			this.result = (double) Math.round((amount+amount*percentage)*100/time/12)/100;
+			this.result = (double) Math.round((amount+amount*percentage/100)*100/time/12)/100;
 
 			ctx.addMessage(null, new FacesMessage(FacesMessage.SEVERITY_INFO, "Operacja wykonana poprawnie", null));
 			ctx.addMessage(null, new FacesMessage(FacesMessage.SEVERITY_INFO, "Miesięczna rata: " + result + " zł", null));
