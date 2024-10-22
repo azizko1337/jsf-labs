@@ -107,91 +107,91 @@
    <libraries>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/c-1_0-rt.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/c-1_0-rt.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/c-1_0.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/c-1_0.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/c-1_2.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/c-1_2.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/c.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/c.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fmt-1_0-rt.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fmt-1_0-rt.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fmt-1_0.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fmt-1_0.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fmt-1_1.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fmt-1_1.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fmt.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fmt.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fn-1_1.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fn-1_1.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fn.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fn.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/permittedtaglibs-1_1.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/permittedtaglibs-1_1.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/permittedtaglibs.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/permittedtaglibs.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/scriptfree-1_1.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/scriptfree-1_1.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/scriptfree.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/scriptfree.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/sql-1_0-rt.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/sql-1_0-rt.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/sql-1_0.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/sql-1_0.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/sql-1_1.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/sql-1_1.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/sql.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/sql.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/x-1_0-rt.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/x-1_0-rt.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/x-1_0.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/x-1_0.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/x-1_1.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/x-1_1.tld" project="jsf_02"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/x.tld" project="jsf_01"/>
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/x.tld" project="jsf_02"/>
     </library>
    </libraries>
   </path>
@@ -202,7 +202,6 @@
   <path value="A:/servers/wildfly-33.0.2.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-util-2.5.2.Final.jar"/>
  </paths>
  <validation>
-  <core validator-id="jboss.cdi.core"/>
   <el>
    <linked-el length="23" name="%0" offset="781" path="%1"/>
    <linked-el length="17" name="%2" offset="706" path="%1"/>
