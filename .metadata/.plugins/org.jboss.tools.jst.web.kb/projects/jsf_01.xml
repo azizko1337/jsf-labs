@@ -202,6 +202,7 @@
   <path value="A:/servers/wildfly-33.0.2.Final/modules/system/layers/base/org/wildfly/security/elytron-base/main/wildfly-elytron-util-2.5.2.Final.jar"/>
  </paths>
  <validation>
+  <core validator-id="jboss.cdi.core"/>
   <el>
    <linked-el length="23" name="%0" offset="781" path="%1"/>
    <linked-el length="17" name="%2" offset="706" path="%1"/>

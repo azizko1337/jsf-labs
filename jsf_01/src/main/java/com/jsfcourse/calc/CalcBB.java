@@ -25,6 +25,10 @@ public class CalcBB {
 			double amount = Double.parseDouble(this.amount);
 			double time = Double.parseDouble(this.time);
 			double percentage = Double.parseDouble(this.percentage);
+			
+			if(time <= 0 || amount < 0 || percentage <0) {
+				throw new Exception("Parameters must be positive.");
+			}
 
 			this.result = (double) Math.round((amount+amount*percentage/100)*100/time/12)/100;
 
