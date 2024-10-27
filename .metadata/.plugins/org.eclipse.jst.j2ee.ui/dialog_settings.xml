@@ -3,6 +3,8 @@
 	<item key="J2EE_EXPORT_OVERWRITE" value="true"/>
 	<item key="J2EE_EXPORT_SOURCE" value="false"/>
 	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="C:\Users\anton\Desktop\jsf_01.war"/>
+		<item value="C:\Users\anton\Desktop\jsf_02.war"/>
 		<item value="C:\Users\anton\Downloads\jsf_01.war"/>
 	</list>
 </section>
