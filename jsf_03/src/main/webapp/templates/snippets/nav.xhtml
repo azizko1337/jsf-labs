@@ -1,0 +1,16 @@
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:p="http://primefaces.org/ui"
+	xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+	xmlns:f="http://xmlns.jcp.org/jsf/core"
+	xmlns:h="http://xmlns.jcp.org/jsf/html">
+
+	<p:tabMenu activeIndex="#{param.i}">
+        <p:menuitem value="#{txt.indexPage}" outcome="/index" icon="pi pi-fw pi-table">
+            <f:param name="i" value="0"/>
+        </p:menuitem>
+        <p:menuitem value="#{txt.aboutPage}" outcome="/about" icon="pi pi-fw pi-info-circle">
+            <f:param name="i" value="1"/>
+        </p:menuitem>
+    </p:tabMenu>
+
+</ui:composition>
