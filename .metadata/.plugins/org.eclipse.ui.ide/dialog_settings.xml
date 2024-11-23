@@ -5,9 +5,13 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\anton\eclipse-workspace\jsf_06_ejb"/>
+			<item value=""/>
+			<item value="C:\Users\anton\eclipse-workspace\ig-clone"/>
 			<item value="C:\Users\anton\eclipse-workspace"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\anton\Downloads\jsf_06 (1).zip"/>
 			<item value="C:\Users\anton\Downloads\jsf_01.zip"/>
 		</list>
 		<section name="ExternalProjectImportWizard.dialogBounds">
@@ -23,6 +27,19 @@
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 		</list>
 		<section name="NewWizard.dialogBounds">
+		</section>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<section name="SmartImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="586"/>
+			<item key="DIALOG_Y_ORIGIN" value="172"/>
+			<item key="DIALOG_WIDTH" value="885"/>
+			<item key="DIALOG_HEIGHT" value="629"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 		</section>
 	</section>
 </section>

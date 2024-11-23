@@ -2,4 +2,5 @@
 <modules>
   <module moduleId="org.eclipse.jst.jee.server:jsf_01" serverId="WildFly 33.0.2"/>
   <module moduleId="org.eclipse.jst.jee.server:jsf_02" serverId="WildFly 33.0.2"/>
+  <module moduleId="org.eclipse.jst.jee.server:jsf_06_ejb" serverId="WildFly 33.0.2"/>
 </modules>
